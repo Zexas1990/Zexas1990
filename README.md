@@ -13,7 +13,9 @@ I try to balance software development👨‍💻 with world conquest 🌍
 <br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zexas1990&hide=HTML,G-code,scss,css,objective-c,roff&theme=radical&langs_count=6" alt="Top Langs"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zexas1990&hide=G-code,scss,objective-c,roff&theme=radical&langs_count=6" alt="Top Langs"/>
+
+<br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Zexas1990&theme=radical" alt="Catalin's GitHub stats"/>
